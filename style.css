@@ -272,7 +272,7 @@ nav .fa-xmark {
 
 @media only screen and (max-width: 600px){
   #header{
-    background-image: url(Images/BG2.png);
+    background-image: url(BG2.png);
   }
 .header-text{
   margin-top: 65%;
